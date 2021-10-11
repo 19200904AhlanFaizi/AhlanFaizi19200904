@@ -1,0 +1,36 @@
+body{ 
+    background: #eee; color: #333; 
+    font-family: sans-serif; font-size:15px; 
+} 
+#wrapper{ 
+    background: #fff; 
+    width: 1100px; 
+    margin: 20px auto; 
+}
+
+#wrapper header{ 
+    background: grey; padding: 20px; 
+} 
+#wrapper header hgroup{ 
+    float: left; 
+    color: rgb(207, 252, 9); } 
+#wrapper header nav{
+    float: right; 
+    margin-top: 50px; 
+}
+#wrapper header nav ul{ 
+    padding: 0; margin: 0; } 
+#wrapper header nav ul li{ 
+    float: left; list-style: none; 
+} 
+#wrapper header nav ul li a{ 
+    padding: 15px; color: rgb(204, 250, 1); text-decoration: none; } 
+.clear{ clear: both; } 
+footer{ background: #3d3535; padding: 20px; 
+} 
+footer a{ 
+    color: rgb(201, 252, 18); 
+    text-decoration: none; 
+} 
+section{ 
+    padding: 20px; }
